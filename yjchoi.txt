@@ -1,6 +1,5 @@
 test test
 aaabbbccc
-=======
 conflict test
 
 github desktop test
