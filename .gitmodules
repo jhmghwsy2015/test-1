@@ -1,0 +1,3 @@
+[submodule "sub_01"]
+	path = sub_01
+	url = https://github.com/sunabove/sub_01.git
