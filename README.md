@@ -6,4 +6,4 @@
 
 
 <hr/>
-<img src="/cropped-3d40d-gaia3d_h50.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="GAIA3D"></img>
+<img src="/cropped-3d40d-gaia3d_h50.png" width="20%" height="15%" title="px(픽셀) 크기 설정" alt="GAIA3D"></img>
